@@ -1,5 +1,5 @@
 # hi
 
 project todo: 
-- [x] claim srebastian.github.io
-- [] put nice content on srebastian.github.io
+- [x] claim my <user>.github.io
+- [ ] put :v: content on srebastian.github.io
